@@ -1,1 +1,1 @@
-# Source code for project: Banking Management System
+Banking Management System
